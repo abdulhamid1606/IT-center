@@ -1,6 +1,6 @@
 <template lang="">
-    <div>
-        <h1>Salom</h1>
+    <div class="Header">
+
     </div>
 </template>
 <script>
@@ -11,6 +11,6 @@ export default {
     }
 }
 </script>
-<style lang="">
-    
+<style lang=""> 
+
 </style>
